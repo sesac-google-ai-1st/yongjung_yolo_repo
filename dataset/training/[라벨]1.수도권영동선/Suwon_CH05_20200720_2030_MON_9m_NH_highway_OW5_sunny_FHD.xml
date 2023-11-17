@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>687</id>
+      <project>NIA_CCTV</project>
+      <name>Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD</name>
+      <size>150</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2020-10-19 17:40:43.575159+09:00</created>
+      <updated>2020-10-20 10:16:31.024636+09:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter>step=1</frame_filter>
+      <labels>
+        <label>
+          <name>truck</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bus</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>car</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>632</id>
+          <start>0</start>
+          <stop>149</stop>
+          <url>http://220.85.41.207:8080/?id=632</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ebkim</username>
+        <email></email>
+      </owner>
+    </task>
+    <dumped>2020-10-29 10:31:16.410875+09:00</dumped>
+  </meta>
+  <image id="0" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_001.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="471.71" ytl="1218.57" xbr="520.71" ybr="1255.57" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="297.85" ytl="1205.00" xbr="343.60" ybr="1237.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="561.80" ytl="1228.43" xbr="616.29" ybr="1269.43" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="234.00" ytl="1260.00" xbr="280.00" ybr="1293.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="283.20" ytl="1839.40" xbr="484.10" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="319.00" ytl="1247.00" xbr="367.00" ybr="1283.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="237.90" ytl="1085.00" xbr="295.60" ybr="1145.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="312.00" ytl="1461.00" xbr="405.00" ybr="1532.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="634.00" ytl="1270.00" xbr="734.30" ybr="1393.90" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_002.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="726.10" ytl="645.90" xbr="766.83" ybr="676.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="488.70" ytl="716.00" xbr="552.00" ybr="760.10" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_003.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="365.00" ytl="804.00" xbr="464.00" ybr="869.00" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_004.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="632.00" ytl="815.00" xbr="704.00" ybr="877.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="667.90" ytl="572.05" xbr="719.90" ybr="650.05" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="745.90" ytl="552.00" xbr="778.90" ybr="593.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="103.00" ytl="1106.00" xbr="293.00" ybr="1276.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="498.00" ytl="708.00" xbr="559.00" ybr="750.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="732.80" ytl="637.80" xbr="774.00" ybr="671.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="315.00" ytl="765.00" xbr="399.00" ybr="819.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="597.22" ytl="640.47" xbr="685.00" ybr="749.47" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_005.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="737.65" ytl="757.52" xbr="806.80" ybr="812.52" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="778.30" ytl="541.90" xbr="809.00" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_006.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="516.98" ytl="724.00" xbr="622.98" ybr="848.00" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_007.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="437.30" ytl="1088.00" xbr="487.68" ybr="1155.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="540.80" ytl="1388.75" xbr="736.84" ybr="1740.75" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="423.00" ytl="1182.00" xbr="474.00" ybr="1222.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="593.00" ytl="1145.00" xbr="639.00" ybr="1182.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="154.00" ytl="1235.00" xbr="233.00" ybr="1289.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="447.00" ytl="1324.00" xbr="533.00" ybr="1398.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="93.00" ytl="1525.40" xbr="248.00" ybr="1658.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="604.00" ytl="1177.60" xbr="703.00" ybr="1295.80" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="479.00" ytl="1249.00" xbr="545.00" ybr="1300.00" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_008.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="181.08" ytl="1317.09" xbr="352.08" ybr="1529.09" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="122.01" ytl="1266.05" xbr="209.01" ybr="1328.05" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="748.06" ytl="1438.94" xbr="951.06" ybr="1725.94" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1156.00" xbr="55.00" ybr="1203.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="274.10" ytl="1178.90" xbr="427.00" ybr="1332.90" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="450.00" ytl="1404.00" xbr="665.00" ybr="1692.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="113.00" ytl="1201.00" xbr="189.00" ybr="1255.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="564.00" ytl="1318.00" xbr="753.00" ybr="1525.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="457.00" ytl="1826.00" xbr="675.90" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="34.00" ytl="1226.00" xbr="107.00" ybr="1279.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="45.03" ytl="1285.13" xbr="131.03" ybr="1358.13" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="404.00" ytl="1233.00" xbr="570.00" ybr="1405.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="128.00" ytl="1382.06" xbr="227.00" ybr="1454.06" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_009.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="204.90" ytl="1390.00" xbr="401.00" ybr="1641.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1399.00" xbr="67.00" ybr="1519.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="127.00" ytl="1605.00" xbr="373.00" ybr="1918.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="590.00" ytl="1420.00" xbr="708.00" ybr="1505.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="494.00" ytl="1582.00" xbr="642.00" ybr="1697.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="0.00" ytl="1060.58" xbr="65.38" ybr="1199.46" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="191.00" ytl="1225.00" xbr="267.00" ybr="1289.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="551.00" ytl="1697.00" xbr="730.00" ybr="1890.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1191.00" xbr="74.00" ybr="1263.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="4.00" ytl="1688.00" xbr="159.00" ybr="1811.00" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_010.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="345.00" ytl="1206.00" xbr="497.00" ybr="1363.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="393.00" ytl="1327.00" xbr="586.00" ybr="1587.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="52.00" ytl="1312.00" xbr="150.00" ybr="1389.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="46.00" ytl="1174.00" xbr="115.00" ybr="1220.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="198.00" ytl="1287.00" xbr="295.00" ybr="1370.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="204.00" ytl="1587.00" xbr="342.00" ybr="1704.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="8.00" ytl="1212.00" xbr="83.00" ybr="1267.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="190.00" ytl="1444.00" xbr="319.00" ybr="1553.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="291.00" ytl="1273.00" xbr="371.00" ybr="1333.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="118.00" ytl="1382.00" xbr="225.00" ybr="1455.00" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_011.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="52.00" ytl="1216.00" xbr="219.00" ybr="1423.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1.00" ytl="1246.90" xbr="60.00" ybr="1331.90" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="178.00" ytl="1465.00" xbr="403.00" ybr="1779.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="298.00" ytl="1166.90" xbr="465.00" ybr="1351.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1432.00" xbr="66.00" ybr="1527.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="738.00" ytl="1610.00" xbr="898.00" ybr="1729.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="54.00" ytl="1214.00" xbr="219.00" ybr="1420.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1613.00" xbr="83.00" ybr="1740.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="22.70" ytl="1202.00" xbr="103.00" ybr="1258.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="392.00" ytl="1427.00" xbr="508.00" ybr="1512.00" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_012.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="497.00" ytl="1363.00" xbr="608.00" ybr="1444.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="2.96" ytl="1504.08" xbr="112.96" ybr="1797.08" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="651.00" ytl="1476.00" xbr="778.00" ybr="1564.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="440.00" ytl="1458.00" xbr="649.00" ybr="1716.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="798.00" ytl="1615.10" xbr="1079.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="382.00" ytl="1297.00" xbr="459.00" ybr="1360.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="254.12" ytl="1300.02" xbr="428.12" ybr="1496.02" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="92.00" ytl="1228.00" xbr="171.00" ybr="1301.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="2.00" ytl="1165.00" xbr="43.00" ybr="1220.00" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_013.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="349.00" ytl="1715.00" xbr="514.00" ybr="1844.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="190.20" ytl="1097.90" xbr="247.79" ybr="1168.29" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="39.00" ytl="1562.00" xbr="174.00" ybr="1656.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="383.58" ytl="1213.60" xbr="429.58" ybr="1253.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="215.00" ytl="1428.00" xbr="309.00" ybr="1490.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="415.20" ytl="1122.00" xbr="472.38" ybr="1185.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="256.93" ytl="1103.65" xbr="294.97" ybr="1144.46" z_order="1">
+    </box>
+    <box label="truck" occluded="0" xtl="310.40" ytl="1136.65" xbr="364.40" ybr="1202.65" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="455.58" ytl="1205.83" xbr="495.58" ybr="1240.83" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_014.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="401.80" ytl="1218.60" xbr="462.00" ybr="1283.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="516.00" ytl="1281.00" xbr="572.00" ybr="1321.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="4.00" ytl="1703.00" xbr="155.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="304.00" ytl="1501.00" xbr="411.00" ybr="1581.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="288.10" ytl="1201.00" xbr="327.00" ybr="1233.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="317.59" ytl="1255.81" xbr="365.19" ybr="1289.81" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="645.00" ytl="1684.00" xbr="801.00" ybr="1812.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="453.00" ytl="1599.00" xbr="586.00" ybr="1719.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="179.00" ytl="1435.00" xbr="280.00" ybr="1507.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="628.00" ytl="1332.00" xbr="698.00" ybr="1382.00" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_015.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="268.00" ytl="1362.00" xbr="335.00" ybr="1416.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="499.42" ytl="1193.58" xbr="542.42" ybr="1225.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="83.00" ytl="1419.00" xbr="173.00" ybr="1483.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="534.00" ytl="1321.00" xbr="599.00" ybr="1373.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="261.90" ytl="1176.00" xbr="298.90" ybr="1207.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="400.00" ytl="1187.00" xbr="443.00" ybr="1220.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="522.00" ytl="1430.00" xbr="610.00" ybr="1503.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="418.00" ytl="1270.00" xbr="473.00" ybr="1308.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="488.48" ytl="1230.15" xbr="536.48" ybr="1267.15" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="330.85" ytl="1156.20" xbr="366.85" ybr="1201.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1591.00" xbr="62.00" ybr="1696.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="208.00" ytl="1307.00" xbr="268.00" ybr="1351.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="649.00" ytl="1748.00" xbr="831.00" ybr="1912.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="414.60" ytl="1297.00" xbr="476.00" ybr="1347.00" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_016.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="445.00" ytl="1507.00" xbr="555.00" ybr="1595.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="443.28" ytl="1164.10" xbr="479.28" ybr="1194.10" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="656.98" ytl="1452.09" xbr="790.98" ybr="1609.09" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="295.38" ytl="1199.73" xbr="335.38" ybr="1231.73" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="4.00" ytl="1524.00" xbr="123.00" ybr="1602.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="519.00" ytl="1198.00" xbr="566.00" ybr="1234.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="94.00" ytl="1404.00" xbr="178.00" ybr="1465.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="329.85" ytl="1692.00" xbr="504.85" ybr="1918.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="275.00" ytl="1367.00" xbr="348.00" ybr="1420.00" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_017.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="627.42" ytl="1604.82" xbr="781.42" ybr="1797.82" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="163.00" ytl="1349.00" xbr="236.00" ybr="1403.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="461.58" ytl="1221.23" xbr="503.58" ybr="1251.23" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="232.00" ytl="1276.00" xbr="283.00" ybr="1315.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="270.00" ytl="1152.60" xbr="331.00" ybr="1225.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="396.60" ytl="1161.70" xbr="431.80" ybr="1205.65" z_order="1">
+    </box>
+    <box label="truck" occluded="0" xtl="463.47" ytl="1157.76" xbr="506.22" ybr="1204.46" z_order="2">
+    </box>
+    <box label="car" occluded="0" xtl="312.17" ytl="1273.42" xbr="368.17" ybr="1317.42" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="439.32" ytl="1200.54" xbr="482.07" ybr="1230.98" z_order="3">
+    </box>
+    <box label="car" occluded="0" xtl="412.00" ytl="1266.00" xbr="464.00" ybr="1307.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="143.51" ytl="1696.00" xbr="481.51" ybr="1920.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="347.00" ytl="1163.00" xbr="398.00" ybr="1227.00" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_018.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="396.42" ytl="1149.95" xbr="451.42" ybr="1219.95" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="525.33" ytl="1347.00" xbr="596.33" ybr="1391.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="650.48" ytl="1345.58" xbr="720.48" ybr="1397.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="477.60" ytl="1497.00" xbr="586.00" ybr="1584.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="367.00" ytl="1646.00" xbr="522.00" ybr="1768.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="379.32" ytl="1391.80" xbr="471.32" ybr="1463.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="2.00" ytl="1619.00" xbr="129.00" ybr="1723.00" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_019.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="729.78" ytl="643.38" xbr="768.18" ybr="673.98" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="649.00" ytl="640.20" xbr="728.50" ybr="748.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="206.00" ytl="810.00" xbr="307.00" ybr="875.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1208.00" xbr="229.00" ybr="1406.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="790.60" ytl="739.40" xbr="849.20" ybr="791.30" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="593.00" ytl="846.00" xbr="676.00" ybr="912.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="674.00" ytl="1009.00" xbr="815.00" ybr="1166.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="800.12" ytl="595.44" xbr="837.73" ybr="650.06" z_order="1">
+    </box>
+    <box label="truck" occluded="0" xtl="799.60" ytl="637.19" xbr="866.60" ybr="732.00" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_020.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="715.10" ytl="745.90" xbr="861.50" ybr="950.00" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_021.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="730.00" ytl="691.00" xbr="780.00" ybr="731.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="418.90" ytl="705.40" xbr="479.00" ybr="746.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="322.00" ytl="940.00" xbr="463.00" ybr="1051.00" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_022.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="444.00" ytl="764.00" xbr="516.00" ybr="815.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="396.00" ytl="719.00" xbr="464.00" ybr="763.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="298.90" ytl="957.20" xbr="456.80" ybr="1106.00" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_023.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="743.10" ytl="559.60" xbr="775.00" ybr="602.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="639.30" ytl="574.90" xbr="681.05" ybr="624.90" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="775.00" ytl="666.90" xbr="867.00" ybr="805.00" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_024.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="25.50" ytl="1155.95" xbr="95.00" ybr="1203.15" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="440.00" ytl="1557.00" xbr="576.00" ybr="1663.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="354.82" ytl="1391.91" xbr="460.82" ybr="1470.91" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="61.00" ytl="1831.00" xbr="271.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="290.70" ytl="1174.31" xbr="436.16" ybr="1329.20" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_025.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="476.00" ytl="1701.00" xbr="669.00" ybr="1867.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="340.00" ytl="1405.00" xbr="451.00" ybr="1484.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1421.17" xbr="81.00" ybr="1501.17" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_026.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="1.00" ytl="1433.00" xbr="127.90" ybr="1725.20" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="467.00" ytl="1653.08" xbr="632.00" ybr="1822.08" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="28.89" ytl="1646.93" xbr="353.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="144.97" ytl="1494.10" xbr="272.97" ybr="1595.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.02" ytl="1151.06" xbr="76.02" ybr="1212.06" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="736.43" ytl="1623.18" xbr="1045.71" ybr="1920.00" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="368.00" ytl="1295.00" xbr="462.00" ybr="1369.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="154.94" ytl="1326.98" xbr="316.00" ybr="1523.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="86.91" ytl="1363.09" xbr="182.91" ybr="1438.09" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="301.00" ytl="1367.00" xbr="404.00" ybr="1445.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="623.00" ytl="1470.06" xbr="757.00" ybr="1568.06" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="622.00" ytl="1621.60" xbr="792.40" ybr="1912.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="45.00" ytl="1302.00" xbr="153.00" ybr="1381.00" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_027.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1436.00" xbr="79.00" ybr="1528.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="79.32" ytl="1112.52" xbr="222.32" ybr="1258.30" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="351.63" ytl="1205.52" xbr="508.63" ybr="1371.52" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="0.00" ytl="1578.50" xbr="82.30" ybr="1725.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="13.34" ytl="1584.55" xbr="102.26" ybr="1677.64" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="170.00" ytl="1689.00" xbr="344.00" ybr="1821.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="776.00" ytl="1636.64" xbr="929.00" ybr="1750.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="486.50" ytl="1349.32" xbr="591.63" ybr="1440.32" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="298.00" ytl="1257.00" xbr="385.00" ybr="1332.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="423.00" ytl="1451.00" xbr="539.00" ybr="1540.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="0.00" ytl="1084.98" xbr="93.53" ybr="1198.68" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="477.00" ytl="1643.00" xbr="630.00" ybr="1763.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="311.00" ytl="1384.95" xbr="422.00" ybr="1462.95" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_028.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="776.00" ytl="1657.00" xbr="955.00" ybr="1785.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1459.00" xbr="90.00" ybr="1598.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1155.00" xbr="43.00" ybr="1201.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="197.00" ytl="1501.00" xbr="329.00" ybr="1594.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="31.00" ytl="1317.00" xbr="115.00" ybr="1378.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="389.00" ytl="1311.00" xbr="490.00" ybr="1378.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="469.00" ytl="1562.00" xbr="631.00" ybr="1685.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="107.00" ytl="1195.60" xbr="210.00" ybr="1327.00" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_029.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="153.00" ytl="1703.00" xbr="333.00" ybr="1835.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="471.00" ytl="1465.40" xbr="722.00" ybr="1875.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="2.00" ytl="1259.00" xbr="40.00" ybr="1322.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="348.00" ytl="1488.00" xbr="483.00" ybr="1586.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1397.00" xbr="46.00" ybr="1477.00" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_030.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="652.00" ytl="1527.00" xbr="779.00" ybr="1626.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="0.00" ytl="1542.92" xbr="286.80" ybr="1920.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="410.00" ytl="1245.80" xbr="496.40" ybr="1353.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="236.96" ytl="1226.01" xbr="279.96" ybr="1259.01" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="123.00" ytl="1471.00" xbr="232.00" ybr="1547.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="496.14" ytl="1195.00" xbr="541.14" ybr="1229.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="447.00" ytl="1535.00" xbr="568.00" ybr="1622.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="425.60" ytl="1189.33" xbr="466.01" ybr="1219.02" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="299.65" ytl="1108.86" xbr="364.30" ybr="1166.58" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="305.30" ytl="1209.00" xbr="346.70" ybr="1239.30" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="354.63" ytl="1198.02" xbr="397.63" ybr="1231.02" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="214.55" ytl="1186.70" xbr="255.45" ybr="1217.05" z_order="2">
+    </box>
+    <box label="car" occluded="0" xtl="524.71" ytl="1324.72" xbr="589.71" ybr="1371.72" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_031.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="233.17" ytl="1161.48" xbr="273.17" ybr="1194.48" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="389.00" ytl="1226.00" xbr="441.00" ybr="1268.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="336.30" ytl="1152.62" xbr="398.48" ybr="1219.62" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="616.98" ytl="1543.97" xbr="838.98" ybr="1903.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="51.53" ytl="1436.50" xbr="144.53" ybr="1494.77" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="288.00" ytl="1469.06" xbr="398.00" ybr="1579.06" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="375.00" ytl="1369.40" xbr="456.97" ybr="1428.09" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_032.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="318.68" ytl="1297.58" xbr="374.68" ybr="1345.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="372.75" ytl="1206.37" xbr="410.60" ybr="1238.80" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="279.84" ytl="1576.90" xbr="567.84" ybr="1914.84" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="248.70" ytl="1383.30" xbr="325.90" ybr="1438.42" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="277.02" ytl="1189.18" xbr="317.02" ybr="1220.18" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="450.00" ytl="1138.79" xbr="506.00" ybr="1213.79" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="221.79" ytl="1128.87" xbr="263.02" ybr="1164.33" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="538.00" ytl="1323.00" xbr="605.00" ybr="1375.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="135.58" ytl="1463.67" xbr="362.58" ybr="1718.67" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="493.65" ytl="1199.33" xbr="558.70" ybr="1292.73" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="416.30" ytl="1277.70" xbr="460.80" ybr="1311.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1765.00" xbr="180.30" ybr="1898.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="554.90" ytl="1234.40" xbr="598.00" ybr="1265.40" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="318.75" ytl="1248.53" xbr="365.75" ybr="1285.53" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="659.42" ytl="1521.33" xbr="780.42" ybr="1655.33" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="406.00" ytl="1202.00" xbr="469.00" ybr="1287.00" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_033.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="562.56" ytl="1228.02" xbr="607.20" ybr="1258.42" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="289.00" ytl="1357.00" xbr="444.70" ybr="1554.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="543.00" ytl="1296.00" xbr="595.00" ybr="1337.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="635.00" ytl="1337.00" xbr="704.00" ybr="1388.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="421.00" ytl="1593.00" xbr="560.00" ybr="1712.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="522.00" ytl="1344.00" xbr="592.00" ybr="1399.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="330.00" ytl="1121.80" xbr="376.80" ybr="1180.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="383.00" ytl="1140.00" xbr="442.00" ybr="1204.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="444.55" ytl="1160.33" xbr="479.78" ybr="1191.24" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="269.79" ytl="1174.23" xbr="310.79" ybr="1205.23" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="303.96" ytl="1228.00" xbr="347.00" ybr="1260.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="521.00" ytl="1207.00" xbr="564.00" ybr="1238.40" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_034.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="387.00" ytl="1370.00" xbr="462.40" ybr="1426.60" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="507.00" ytl="1388.00" xbr="597.60" ybr="1512.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="371.38" ytl="1166.00" xbr="411.38" ybr="1196.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="258.00" ytl="1106.08" xbr="310.60" ybr="1159.80" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="606.00" ytl="1284.00" xbr="664.00" ybr="1327.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="505.00" ytl="1281.00" xbr="561.00" ybr="1324.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="527.00" ytl="1208.00" xbr="574.00" ybr="1244.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="415.00" ytl="1255.00" xbr="466.00" ybr="1292.00" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_035.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="110.00" ytl="852.00" xbr="240.00" ybr="938.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="687.56" ytl="574.65" xbr="729.56" ybr="633.65" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="429.00" ytl="1124.00" xbr="606.00" ybr="1282.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="744.20" ytl="721.58" xbr="804.19" ybr="762.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="466.61" ytl="682.40" xbr="508.81" ybr="717.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="513.58" ytl="700.15" xbr="570.40" ybr="741.40" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="317.00" ytl="816.00" xbr="422.00" ybr="894.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="418.37" ytl="765.63" xbr="571.87" ybr="928.63" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="373.00" ytl="742.00" xbr="437.00" ybr="787.00" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_036.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="811.00" ytl="640.00" xbr="846.00" ybr="671.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="645.00" ytl="766.00" xbr="718.00" ybr="825.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="777.80" ytl="764.40" xbr="850.00" ybr="826.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="612.00" ytl="1200.00" xbr="800.00" ybr="1402.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="452.00" ytl="734.00" xbr="532.00" ybr="799.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="257.00" ytl="787.00" xbr="338.00" ybr="848.00" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_037.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="734.00" ytl="778.20" xbr="879.00" ybr="1018.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="420.00" ytl="714.00" xbr="478.00" ybr="756.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="637.28" ytl="607.28" xbr="707.70" ybr="693.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="195.00" ytl="815.00" xbr="301.00" ybr="881.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="541.09" ytl="867.96" xbr="655.90" ybr="984.96" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="326.00" ytl="945.00" xbr="471.00" ybr="1041.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="507.14" ytl="698.08" xbr="634.94" ybr="844.00" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_038.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="482.96" ytl="668.40" xbr="526.80" ybr="703.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="339.00" ytl="819.00" xbr="437.00" ybr="886.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="585.76" ytl="735.48" xbr="733.26" ybr="928.19" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="49.00" ytl="880.00" xbr="191.00" ybr="967.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="563.90" ytl="998.00" xbr="884.00" ybr="1712.40" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_039.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="648.18" ytl="610.03" xbr="711.88" ybr="680.53" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="584.00" ytl="836.00" xbr="672.00" ybr="906.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="12.00" ytl="1475.00" xbr="334.00" ybr="1881.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="686.57" ytl="744.28" xbr="740.57" ybr="792.28" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="541.83" ytl="654.83" xbr="617.90" ybr="749.83" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_040.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="589.60" ytl="657.42" xbr="699.60" ybr="769.42" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="784.80" ytl="703.77" xbr="839.19" ybr="741.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="339.00" ytl="1204.00" xbr="536.00" ybr="1384.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="370.92" ytl="780.10" xbr="616.92" ybr="1033.10" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="702.50" ytl="565.60" xbr="738.19" ybr="610.80" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="286.10" ytl="850.15" xbr="381.57" ybr="922.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="580.00" ytl="661.00" xbr="618.00" ybr="692.00" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_041.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1393.00" xbr="41.00" ybr="1454.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="195.10" ytl="1455.60" xbr="381.90" ybr="1683.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="377.86" ytl="1395.43" xbr="486.86" ybr="1512.60" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="74.20" ytl="1174.70" xbr="223.01" ybr="1327.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="490.00" ytl="1859.00" xbr="684.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="452.60" ytl="1334.15" xbr="551.00" ybr="1407.15" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="483.00" ytl="1626.00" xbr="639.00" ybr="1748.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1620.00" xbr="74.00" ybr="1723.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="180.99" ytl="1718.09" xbr="356.99" ybr="1846.09" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="0.00" ytl="1127.43" xbr="124.30" ybr="1264.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="219.43" ytl="1231.01" xbr="309.20" ybr="1286.30" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="279.57" ytl="1353.73" xbr="373.57" ybr="1419.73" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1487.00" xbr="100.00" ybr="1594.00" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_042.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="151.00" ytl="1730.00" xbr="337.00" ybr="1887.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="178.00" ytl="1484.54" xbr="299.00" ybr="1571.54" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1141.26" xbr="51.00" ybr="1186.26" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1627.00" xbr="98.00" ybr="1739.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="75.26" ytl="1337.26" xbr="171.26" ybr="1410.80" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="373.00" ytl="1323.70" xbr="554.00" ybr="1537.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="3.63" ytl="1217.95" xbr="84.63" ybr="1277.95" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="485.00" ytl="1610.00" xbr="637.00" ybr="1726.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="328.70" ytl="1263.00" xbr="434.00" ybr="1360.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1493.00" xbr="89.00" ybr="1582.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1408.00" xbr="55.00" ybr="1475.00" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_043.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="752.60" ytl="1599.64" xbr="901.18" ybr="1707.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="221.00" ytl="1230.00" xbr="320.00" ybr="1310.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="342.00" ytl="1286.00" xbr="438.00" ybr="1355.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="98.00" ytl="1338.00" xbr="199.00" ybr="1411.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="81.20" ytl="1235.27" xbr="155.70" ybr="1288.40" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_044.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="473.00" ytl="1749.00" xbr="673.00" ybr="1916.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="461.00" ytl="1495.00" xbr="598.00" ybr="1610.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="474.00" ytl="1624.00" xbr="635.00" ybr="1753.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="353.10" ytl="1327.00" xbr="496.00" ybr="1498.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1445.17" xbr="83.00" ybr="1545.17" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="174.00" ytl="1335.10" xbr="353.10" ybr="1601.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="100.90" ytl="1242.00" xbr="268.00" ybr="1463.00" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_045.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="215.00" ytl="1261.00" xbr="292.20" ybr="1322.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="4.00" ytl="1695.00" xbr="219.00" ybr="1917.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="433.10" ytl="1399.20" xbr="635.00" ybr="1686.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="98.00" ytl="1255.70" xbr="248.00" ybr="1441.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1664.00" xbr="75.00" ybr="1751.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1450.00" xbr="63.00" ybr="1543.00" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_046.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="79.00" ytl="1170.00" xbr="151.00" ybr="1243.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="414.00" ytl="1242.00" xbr="512.00" ybr="1350.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="140.00" ytl="1209.10" xbr="211.00" ybr="1311.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1.00" ytl="1719.00" xbr="102.00" ybr="1841.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="446.00" ytl="1766.00" xbr="615.00" ybr="1917.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="355.00" ytl="1504.00" xbr="450.00" ybr="1584.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="679.00" ytl="1476.00" xbr="781.00" ybr="1561.00" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_047.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="533.00" ytl="1212.00" xbr="578.00" ybr="1246.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="245.46" ytl="1249.44" xbr="286.56" ybr="1279.81" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="320.00" ytl="1229.00" xbr="363.00" ybr="1265.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="195.00" ytl="1328.00" xbr="257.00" ybr="1377.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="604.00" ytl="1282.00" xbr="666.00" ybr="1326.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="641.17" ytl="1340.83" xbr="708.17" ybr="1389.83" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="665.00" ytl="1367.60" xbr="740.00" ybr="1432.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1473.00" xbr="86.00" ybr="1539.00" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_048.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="467.40" ytl="1222.00" xbr="513.00" ybr="1256.10" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="522.60" ytl="1272.00" xbr="593.00" ybr="1346.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="312.70" ytl="1257.00" xbr="374.70" ybr="1333.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="507.20" ytl="1197.90" xbr="551.10" ybr="1230.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="313.00" ytl="1203.58" xbr="373.00" ybr="1249.58" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_049.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="207.00" ytl="1428.00" xbr="300.00" ybr="1494.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="260.19" ytl="1178.00" xbr="300.19" ybr="1209.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="534.00" ytl="1372.00" xbr="607.00" ybr="1429.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="289.00" ytl="1491.00" xbr="397.00" ybr="1570.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="424.19" ytl="1158.81" xbr="464.19" ybr="1188.81" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_050.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="298.90" ytl="1213.00" xbr="339.00" ybr="1246.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="237.38" ytl="1226.00" xbr="280.38" ybr="1260.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="431.95" ytl="1206.05" xbr="476.95" ybr="1240.05" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="275.00" ytl="1497.00" xbr="384.00" ybr="1580.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="201.80" ytl="1314.00" xbr="260.60" ybr="1358.00" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_051.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="524.00" ytl="1349.00" xbr="596.00" ybr="1402.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="524.32" ytl="1423.68" xbr="608.30" ybr="1486.50" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="642.00" ytl="1294.90" xbr="722.00" ybr="1380.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="383.30" ytl="1205.30" xbr="425.40" ybr="1238.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="3.00" ytl="1441.00" xbr="105.00" ybr="1528.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="296.30" ytl="1206.00" xbr="335.00" ybr="1237.40" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_052.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="599.95" ytl="644.80" xbr="640.40" ybr="675.00" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_053.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="613.80" ytl="691.00" xbr="659.00" ybr="727.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="524.00" ytl="779.00" xbr="612.20" ybr="840.50" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="680.10" ytl="622.30" xbr="715.00" ybr="655.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="212.00" ytl="817.00" xbr="313.00" ybr="877.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="779.70" ytl="667.50" xbr="844.00" ybr="752.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="482.42" ytl="676.70" xbr="531.20" ybr="710.00" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_054.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="516.40" ytl="657.70" xbr="558.70" ybr="688.60" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="0.00" ytl="1017.91" xbr="265.50" ybr="1534.91" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="669.50" ytl="944.80" xbr="851.00" ybr="1230.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="468.58" ytl="736.58" xbr="538.58" ybr="784.58" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_055.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="629.98" ytl="675.04" xbr="673.98" ybr="707.48" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="514.00" ytl="973.00" xbr="642.00" ybr="1084.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="736.00" ytl="592.00" xbr="785.00" ybr="654.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="474.00" ytl="688.00" xbr="526.00" ybr="725.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="359.00" ytl="792.00" xbr="458.00" ybr="860.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="259.00" ytl="1003.00" xbr="409.00" ybr="1111.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="709.00" ytl="684.20" xbr="753.00" ybr="717.23" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_056.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="421.20" ytl="757.00" xbr="498.00" ybr="813.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="800.95" ytl="677.95" xbr="845.95" ybr="712.95" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="257.00" ytl="779.00" xbr="350.20" ybr="831.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="90.10" ytl="816.91" xbr="408.80" ybr="1096.91" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="631.60" ytl="609.00" xbr="710.40" ybr="705.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="766.43" ytl="745.25" xbr="834.43" ybr="798.25" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_057.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="623.00" ytl="1172.95" xbr="679.00" ybr="1246.95" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="581.27" ytl="1134.05" xbr="624.27" ybr="1169.05" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_058.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="176.00" ytl="1376.00" xbr="323.00" ybr="1541.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="268.00" ytl="1339.00" xbr="355.00" ybr="1409.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="602.00" ytl="1450.00" xbr="736.00" ybr="1556.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="156.20" ytl="1167.40" xbr="243.00" ybr="1265.00" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_059.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="180.99" ytl="1396.03" xbr="380.99" ybr="1671.03" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="539.00" ytl="1357.00" xbr="649.00" ybr="1496.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="497.00" ytl="1638.00" xbr="656.00" ybr="1749.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1389.00" xbr="56.00" ybr="1475.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="129.92" ytl="1627.00" xbr="321.92" ybr="1915.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1570.00" xbr="81.00" ybr="1713.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="512.00" ytl="1744.00" xbr="696.00" ybr="1894.00" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_060.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="323.00" ytl="1399.00" xbr="432.00" ybr="1475.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1584.00" xbr="115.00" ybr="1690.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="816.00" ytl="1748.00" xbr="1001.00" ybr="1895.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="456.00" ytl="1623.00" xbr="617.00" ybr="1756.00" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_061.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="767.00" ytl="1665.00" xbr="936.00" ybr="1791.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="36.30" ytl="1230.10" xbr="158.00" ybr="1380.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1191.00" xbr="52.00" ybr="1255.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="438.00" ytl="1509.00" xbr="571.00" ybr="1612.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="36.00" ytl="1167.00" xbr="105.00" ybr="1217.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="470.00" ytl="1659.00" xbr="630.00" ybr="1784.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="202.00" ytl="1532.00" xbr="331.00" ybr="1626.00" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_062.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1189.00" xbr="56.00" ybr="1256.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="204.00" ytl="1223.70" xbr="360.00" ybr="1389.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="135.00" ytl="1376.00" xbr="242.00" ybr="1454.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1399.00" xbr="88.00" ybr="1491.00" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_063.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="328.03" ytl="1342.90" xbr="468.00" ybr="1516.80" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="208.00" ytl="1420.00" xbr="290.00" ybr="1478.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="318.00" ytl="1303.00" xbr="383.00" ybr="1347.90" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="206.86" ytl="1564.88" xbr="519.86" ybr="1920.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="410.14" ytl="1170.43" xbr="448.14" ybr="1213.43" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="510.85" ytl="1297.00" xbr="571.85" ybr="1346.00" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_064.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="467.00" ytl="1232.00" xbr="524.00" ybr="1270.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="524.00" ytl="1318.00" xbr="592.00" ybr="1366.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="77.00" ytl="1531.00" xbr="181.00" ybr="1607.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="267.38" ytl="1188.10" xbr="308.38" ybr="1219.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="481.00" ytl="1531.00" xbr="598.00" ybr="1621.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="389.00" ytl="1238.80" xbr="493.00" ybr="1391.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="683.00" ytl="1490.00" xbr="791.00" ybr="1577.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="389.00" ytl="1138.42" xbr="451.00" ybr="1210.42" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_065.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="547.60" ytl="1334.00" xbr="617.00" ybr="1386.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="311.05" ytl="1204.26" xbr="352.05" ybr="1238.26" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="189.00" ytl="1637.00" xbr="314.00" ybr="1734.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="77.00" ytl="1516.00" xbr="203.00" ybr="1616.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="373.74" ytl="1165.32" xbr="412.74" ybr="1195.32" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="247.00" ytl="1274.00" xbr="306.00" ybr="1316.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="429.70" ytl="1261.32" xbr="480.70" ybr="1298.32" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_066.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="471.00" ytl="1263.00" xbr="510.00" ybr="1300.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="381.80" ytl="1243.00" xbr="427.00" ybr="1283.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="47.00" ytl="1555.00" xbr="178.00" ybr="1649.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="399.50" ytl="1262.50" xbr="492.00" ybr="1402.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="552.00" ytl="1234.13" xbr="601.10" ybr="1270.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="536.00" ytl="1443.00" xbr="632.00" ybr="1520.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="230.71" ytl="1254.00" xbr="285.10" ybr="1290.70" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="528.90" ytl="1174.00" xbr="597.00" ybr="1247.70" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_067.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="520.80" ytl="1421.00" xbr="604.00" ybr="1484.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="487.79" ytl="1563.94" xbr="601.59" ybr="1670.04" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="436.00" ytl="1170.00" xbr="495.00" ybr="1238.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="318.00" ytl="1328.00" xbr="374.00" ybr="1374.00" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_068.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="414.77" ytl="1264.00" xbr="465.20" ybr="1296.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="307.00" ytl="1275.00" xbr="359.00" ybr="1317.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="238.73" ytl="1254.40" xbr="285.40" ybr="1290.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="124.00" ytl="1496.00" xbr="230.00" ybr="1575.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="494.98" ytl="1245.21" xbr="539.79" ybr="1277.02" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="643.00" ytl="1311.00" xbr="710.00" ybr="1366.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="346.00" ytl="1421.00" xbr="431.00" ybr="1484.00" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_069.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="761.00" ytl="679.00" xbr="861.00" ybr="868.00" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_070.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="662.16" ytl="628.20" xbr="698.16" ybr="658.53" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="491.00" ytl="924.00" xbr="612.00" ybr="1014.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="681.00" ytl="708.00" xbr="739.00" ybr="755.00" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_071.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1321.00" xbr="94.00" ybr="1521.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="415.00" ytl="706.00" xbr="480.00" ybr="748.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="797.00" ytl="691.00" xbr="852.00" ybr="733.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="671.00" ytl="631.06" xbr="703.46" ybr="661.15" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="489.00" ytl="716.00" xbr="549.00" ybr="764.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="707.00" ytl="559.00" xbr="743.00" ybr="607.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="795.19" ytl="618.00" xbr="831.19" ybr="651.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="724.50" ytl="811.02" xbr="804.79" ybr="874.02" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_072.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="626.00" ytl="604.00" xbr="704.10" ybr="722.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="525.40" ytl="694.40" xbr="580.00" ybr="732.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="470.00" ytl="831.00" xbr="581.00" ybr="908.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="73.00" ytl="876.00" xbr="203.00" ybr="952.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="426.00" ytl="768.00" xbr="506.00" ybr="820.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="796.00" ytl="691.00" xbr="850.00" ybr="739.40" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="702.58" ytl="554.96" xbr="740.58" ybr="606.80" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="550.00" ytl="761.00" xbr="618.00" ybr="811.00" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_073.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="587.00" ytl="724.00" xbr="638.00" ybr="771.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="430.00" ytl="707.00" xbr="487.00" ybr="746.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="555.30" ytl="674.00" xbr="598.10" ybr="707.40" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="152.00" ytl="839.00" xbr="266.00" ybr="907.00" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_074.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="160.00" ytl="1375.00" xbr="271.00" ybr="1467.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="3.00" ytl="1276.00" xbr="78.00" ybr="1345.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="413.00" ytl="1362.00" xbr="614.00" ybr="1609.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="784.00" ytl="1627.00" xbr="946.00" ybr="1752.00" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_075.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="256.00" ytl="1239.00" xbr="346.00" ybr="1308.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="452.00" ytl="1725.00" xbr="621.00" ybr="1857.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1252.00" xbr="31.00" ybr="1310.00" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_076.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="201.00" ytl="1302.00" xbr="302.00" ybr="1372.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1.00" ytl="1474.00" xbr="91.00" ybr="1562.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="553.00" ytl="1416.00" xbr="670.00" ybr="1499.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="680.00" ytl="1510.00" xbr="800.00" ybr="1607.00" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_077.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="730.00" ytl="1599.00" xbr="888.00" ybr="1718.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="23.00" ytl="1293.00" xbr="115.00" ybr="1367.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="382.00" ytl="1349.00" xbr="561.00" ybr="1559.00" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_078.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="116.00" ytl="1366.00" xbr="233.00" ybr="1453.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="73.00" ytl="1846.00" xbr="276.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="318.00" ytl="1373.00" xbr="437.00" ybr="1469.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="372.00" ytl="1286.00" xbr="479.00" ybr="1365.00" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_079.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="350.00" ytl="1654.00" xbr="509.00" ybr="1771.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="107.00" ytl="1364.00" xbr="209.00" ybr="1439.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="19.00" ytl="1290.00" xbr="110.00" ybr="1353.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="497.00" ytl="1462.00" xbr="619.00" ybr="1560.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="377.00" ytl="1399.00" xbr="494.00" ybr="1481.00" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_080.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="348.00" ytl="1446.00" xbr="447.00" ybr="1519.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="403.00" ytl="1286.00" xbr="464.00" ybr="1330.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="283.00" ytl="1192.00" xbr="332.00" ybr="1230.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="524.00" ytl="1300.00" xbr="584.00" ybr="1346.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="301.00" ytl="1295.00" xbr="357.00" ybr="1342.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="493.00" ytl="1257.00" xbr="544.00" ybr="1292.00" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_081.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="233.00" ytl="1249.00" xbr="283.00" ybr="1291.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1476.00" xbr="76.00" ybr="1548.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="290.00" ytl="1259.00" xbr="383.00" ybr="1379.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="592.00" ytl="1246.00" xbr="646.00" ybr="1289.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="242.00" ytl="1384.00" xbr="323.00" ybr="1451.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="407.40" ytl="1271.00" xbr="464.00" ybr="1316.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="662.37" ytl="1346.90" xbr="735.37" ybr="1406.90" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_082.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="402.00" ytl="1295.00" xbr="474.00" ybr="1388.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="513.00" ytl="1290.00" xbr="572.00" ybr="1336.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="407.00" ytl="1208.00" xbr="484.00" ybr="1302.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="118.00" ytl="1733.00" xbr="282.00" ybr="1863.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="209.00" ytl="1317.00" xbr="266.00" ybr="1360.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="133.00" ytl="1498.00" xbr="228.00" ybr="1564.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="640.00" ytl="1287.00" xbr="702.00" ybr="1368.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="242.00" ytl="1403.00" xbr="324.00" ybr="1462.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="296.00" ytl="1325.00" xbr="360.00" ybr="1375.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="333.00" ytl="1453.00" xbr="432.00" ybr="1539.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="569.74" ytl="1254.00" xbr="620.74" ybr="1290.00" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_083.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="481.00" ytl="1243.00" xbr="530.00" ybr="1279.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="262.00" ytl="1279.00" xbr="317.00" ybr="1322.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="301.00" ytl="1209.00" xbr="344.00" ybr="1242.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="431.85" ytl="1195.00" xbr="471.85" ybr="1225.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="473.00" ytl="1535.00" xbr="590.00" ybr="1636.00" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_084.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="363.10" ytl="1291.82" xbr="479.10" ybr="1451.82" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="202.00" ytl="1414.00" xbr="285.00" ybr="1476.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="117.00" ytl="1491.00" xbr="224.00" ybr="1564.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="455.00" ytl="1177.00" xbr="523.00" ybr="1265.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="611.90" ytl="1237.00" xbr="704.90" ybr="1346.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="533.00" ytl="1369.00" xbr="608.00" ybr="1427.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="500.00" ytl="1415.00" xbr="596.30" ybr="1545.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="514.60" ytl="1292.00" xbr="573.40" ybr="1335.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="315.00" ytl="1439.70" xbr="409.00" ybr="1539.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="319.00" ytl="1238.80" xbr="368.60" ybr="1273.40" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_085.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="213.00" ytl="820.00" xbr="314.00" ybr="883.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="734.00" ytl="1004.00" xbr="865.00" ybr="1131.00" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_086.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="646.00" ytl="665.00" xbr="690.00" ybr="699.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="153.00" ytl="841.00" xbr="266.00" ybr="910.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="485.00" ytl="817.00" xbr="578.00" ybr="887.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="527.90" ytl="645.60" xbr="564.00" ybr="677.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="735.00" ytl="798.40" xbr="818.00" ybr="864.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="515.00" ytl="991.00" xbr="640.00" ybr="1099.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="392.00" ytl="718.00" xbr="458.00" ybr="771.00" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_087.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="791.15" ytl="765.81" xbr="860.20" ybr="827.81" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="259.00" ytl="795.00" xbr="351.00" ybr="852.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="660.20" ytl="662.60" xbr="757.90" ybr="802.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="645.19" ytl="634.00" xbr="684.80" ybr="666.00" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_088.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="489.77" ytl="693.14" xbr="557.77" ybr="754.04" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="513.00" ytl="777.02" xbr="592.00" ybr="836.02" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="631.00" ytl="624.35" xbr="664.00" ybr="655.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="553.00" ytl="891.00" xbr="666.80" ybr="981.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="776.80" ytl="771.40" xbr="842.00" ybr="825.40" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_089.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="787.00" ytl="737.00" xbr="848.00" ybr="790.00" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_090.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="364.00" ytl="738.00" xbr="438.00" ybr="785.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="364.00" ytl="1108.00" xbr="531.00" ybr="1251.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="589.40" ytl="652.00" xbr="629.00" ybr="684.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="637.00" ytl="617.00" xbr="698.00" ybr="693.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="389.00" ytl="778.00" xbr="482.00" ybr="845.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="698.70" ytl="626.85" xbr="774.40" ybr="739.85" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_091.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="0.00" ytl="1527.00" xbr="82.00" ybr="1827.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="3.00" ytl="1454.00" xbr="126.00" ybr="1554.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="88.00" ytl="1163.00" xbr="232.00" ybr="1329.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="178.00" ytl="1551.00" xbr="310.00" ybr="1654.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="196.00" ytl="1687.00" xbr="364.00" ybr="1810.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="287.00" ytl="1362.00" xbr="388.00" ybr="1437.00" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_092.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="173.00" ytl="1464.00" xbr="294.00" ybr="1552.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1631.44" xbr="99.00" ybr="1733.64" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="481.40" ytl="1496.27" xbr="709.18" ybr="1780.27" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="111.00" ytl="1252.29" xbr="189.00" ybr="1321.29" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="423.40" ytl="1241.00" xbr="578.00" ybr="1443.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1199.00" xbr="59.00" ybr="1255.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="188.00" ytl="1670.00" xbr="349.00" ybr="1797.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="867.70" ytl="1731.60" xbr="1058.70" ybr="1913.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="335.00" ytl="1403.73" xbr="459.00" ybr="1494.73" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="335.30" ytl="1184.00" xbr="495.00" ybr="1352.00" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_093.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="361.20" ytl="1451.00" xbr="475.00" ybr="1531.50" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="19.10" ytl="1150.00" xbr="99.00" ybr="1213.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="97.00" ytl="1231.00" xbr="184.00" ybr="1300.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="109.00" ytl="1198.00" xbr="173.00" ybr="1241.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="3.00" ytl="1418.00" xbr="101.00" ybr="1521.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="313.00" ytl="1392.00" xbr="424.00" ybr="1467.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1637.00" xbr="89.00" ybr="1751.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="111.00" ytl="1852.00" xbr="325.30" ybr="1920.00" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_094.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="31.00" ytl="1209.08" xbr="114.00" ybr="1272.08" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="315.00" ytl="1385.00" xbr="429.00" ybr="1468.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="14.00" ytl="1631.00" xbr="375.80" ybr="1919.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="203.05" ytl="1545.11" xbr="336.05" ybr="1649.11" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="140.02" ytl="1400.03" xbr="254.02" ybr="1493.03" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_095.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="244.00" ytl="1318.30" xbr="343.00" ybr="1397.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="381.44" ytl="1207.00" xbr="549.54" ybr="1388.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="503.00" ytl="1608.00" xbr="652.00" ybr="1723.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="202.00" ytl="1450.00" xbr="332.00" ybr="1619.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="87.72" ytl="1237.46" xbr="142.72" ybr="1290.36" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="406.00" ytl="1401.00" xbr="520.00" ybr="1533.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="3.00" ytl="1192.70" xbr="118.00" ybr="1354.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="195.00" ytl="1293.00" xbr="291.00" ybr="1365.00" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_096.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="43.28" ytl="1196.29" xbr="93.28" ybr="1230.29" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="723.50" ytl="1747.00" xbr="887.00" ybr="1878.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="243.14" ytl="1261.72" xbr="296.14" ybr="1303.72" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="448.00" ytl="1389.00" xbr="516.00" ybr="1443.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="56.00" ytl="1617.30" xbr="191.00" ybr="1717.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="502.00" ytl="1516.00" xbr="616.00" ybr="1677.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="489.00" ytl="1490.00" xbr="571.00" ybr="1556.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="219.00" ytl="1728.40" xbr="352.00" ybr="1836.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="130.85" ytl="1257.44" xbr="180.85" ybr="1295.44" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_097.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="478.40" ytl="1233.00" xbr="518.00" ybr="1266.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="451.80" ytl="1169.00" xbr="490.00" ybr="1199.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="315.77" ytl="1229.02" xbr="360.77" ybr="1261.02" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_098.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="514.00" ytl="1270.00" xbr="569.00" ybr="1314.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="452.58" ytl="1176.60" xbr="495.58" ybr="1208.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="371.00" ytl="1205.00" xbr="418.00" ybr="1246.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="303.00" ytl="1293.00" xbr="362.00" ybr="1339.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="513.19" ytl="1312.00" xbr="582.40" ybr="1373.00" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_099.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="671.00" ytl="1395.00" xbr="761.00" ybr="1462.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="664.00" ytl="1438.00" xbr="773.00" ybr="1524.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="406.98" ytl="1185.60" xbr="448.98" ybr="1215.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="386.00" ytl="1636.00" xbr="548.00" ybr="1769.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="642.00" ytl="1327.00" xbr="707.00" ybr="1377.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="512.00" ytl="1384.00" xbr="604.00" ybr="1458.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="309.00" ytl="1308.00" xbr="374.00" ybr="1363.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="470.79" ytl="1222.00" xbr="514.00" ybr="1253.42" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="389.00" ytl="1347.00" xbr="460.00" ybr="1405.00" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_100.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="490.00" ytl="1238.00" xbr="544.00" ybr="1281.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="398.95" ytl="1176.34" xbr="438.00" ybr="1208.34" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="351.62" ytl="1152.33" xbr="386.32" ybr="1182.33" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_101.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="421.60" ytl="1296.81" xbr="474.60" ybr="1339.81" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="251.38" ytl="1388.61" xbr="325.98" ybr="1442.51" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="298.00" ytl="1320.00" xbr="360.70" ybr="1379.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="26.00" ytl="1565.00" xbr="273.90" ybr="1877.20" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_102.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="202.00" ytl="823.00" xbr="301.80" ybr="884.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="802.39" ytl="639.10" xbr="840.79" ybr="669.42" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="716.98" ytl="627.21" xbr="768.98" ybr="692.21" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="749.00" ytl="552.00" xbr="780.00" ybr="595.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="535.58" ytl="742.42" xbr="613.00" ybr="808.42" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="699.29" ytl="551.88" xbr="737.40" ybr="606.88" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_103.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="509.00" ytl="976.00" xbr="638.00" ybr="1074.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="797.40" ytl="640.00" xbr="867.00" ybr="738.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="489.96" ytl="686.19" xbr="631.30" ybr="854.19" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="630.30" ytl="808.00" xbr="708.40" ybr="872.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="728.00" ytl="641.00" xbr="767.00" ybr="674.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="710.00" ytl="682.20" xbr="752.20" ybr="718.44" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="958.00" xbr="86.00" ybr="1071.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="598.00" ytl="644.00" xbr="637.00" ybr="674.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="503.00" ytl="672.00" xbr="545.00" ybr="705.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="394.00" ytl="716.00" xbr="460.60" ybr="760.00" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_104.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="670.70" ytl="656.00" xbr="717.00" ybr="693.80" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="749.77" ytl="884.44" xbr="841.77" ybr="960.44" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="659.90" ytl="757.62" xbr="728.17" ybr="809.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="437.00" ytl="756.00" xbr="514.00" ybr="802.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="494.00" ytl="841.60" xbr="572.00" ybr="923.00" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_105.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="518.00" ytl="752.60" xbr="599.50" ybr="831.00" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_106.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="797.70" ytl="607.60" xbr="854.77" ybr="696.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="793.30" ytl="728.00" xbr="856.00" ybr="778.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="534.30" ytl="691.90" xbr="582.00" ybr="730.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="6.00" ytl="917.00" xbr="151.00" ybr="1000.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="668.70" ytl="744.00" xbr="728.00" ybr="785.30" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="720.55" ytl="658.10" xbr="760.15" ybr="688.23" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_107.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="127.00" ytl="1264.00" xbr="206.00" ybr="1313.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="198.85" ytl="1287.48" xbr="279.85" ybr="1350.48" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="438.40" ytl="1128.00" xbr="475.00" ybr="1160.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="511.00" ytl="1076.00" xbr="562.00" ybr="1141.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="507.57" ytl="1228.40" xbr="565.20" ybr="1272.75" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_108.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1381.00" xbr="34.40" ybr="1461.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="520.00" ytl="1379.00" xbr="631.00" ybr="1470.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="127.00" ytl="1204.00" xbr="209.00" ybr="1260.00" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_109.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1364.00" xbr="80.00" ybr="1443.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="160.98" ytl="1713.04" xbr="346.98" ybr="1870.04" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="258.00" ytl="1349.00" xbr="363.00" ybr="1425.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="732.00" ytl="1584.00" xbr="899.00" ybr="1707.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="489.00" ytl="1629.90" xbr="657.00" ybr="1769.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="35.00" ytl="1224.00" xbr="117.00" ybr="1280.00" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_110.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="473.96" ytl="1523.00" xbr="606.00" ybr="1627.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="246.00" ytl="1285.00" xbr="335.00" ybr="1349.60" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="202.91" ytl="1424.20" xbr="406.91" ybr="1710.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="88.70" ytl="1190.28" xbr="168.86" ybr="1247.60" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_111.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1464.00" xbr="85.90" ybr="1546.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="90.00" ytl="1232.00" xbr="187.00" ybr="1309.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1542.00" xbr="109.80" ybr="1646.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="137.00" ytl="1328.00" xbr="275.00" ybr="1503.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="19.40" ytl="1297.00" xbr="109.00" ybr="1389.00" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_112.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="2.00" ytl="1419.00" xbr="95.00" ybr="1535.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="301.00" ytl="1227.00" xbr="399.00" ybr="1342.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="176.00" ytl="1626.00" xbr="327.90" ybr="1749.00" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_113.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="240.00" ytl="1400.00" xbr="324.00" ybr="1460.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="608.00" ytl="1270.00" xbr="662.00" ybr="1308.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="300.00" ytl="1231.00" xbr="346.00" ybr="1264.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="342.30" ytl="1245.00" xbr="387.00" ybr="1281.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="392.40" ytl="1199.80" xbr="465.04" ybr="1298.40" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="2.00" ytl="1631.00" xbr="45.00" ybr="1761.00" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_114.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="485.33" ytl="1239.10" xbr="532.20" ybr="1277.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="239.20" ytl="1229.00" xbr="280.80" ybr="1263.80" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="449.00" ytl="1298.00" xbr="596.60" ybr="1502.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="414.00" ytl="1232.00" xbr="484.00" ybr="1312.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="230.10" ytl="1205.62" xbr="271.10" ybr="1238.53" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="388.08" ytl="1153.02" xbr="431.08" ybr="1203.35" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="545.00" ytl="1216.00" xbr="592.00" ybr="1248.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="229.00" ytl="1252.00" xbr="275.00" ybr="1290.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="403.00" ytl="1297.00" xbr="482.00" ybr="1394.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="319.00" ytl="1253.00" xbr="373.00" ybr="1299.00" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_115.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="362.00" ytl="1351.00" xbr="433.00" ybr="1406.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="669.36" ytl="1444.27" xbr="769.36" ybr="1522.27" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="183.20" ytl="1455.81" xbr="261.30" ybr="1511.70" z_order="1">
+    </box>
+    <box label="truck" occluded="0" xtl="225.19" ytl="1109.76" xbr="271.36" ybr="1159.92" z_order="2">
+    </box>
+    <box label="car" occluded="0" xtl="644.00" ytl="1332.00" xbr="708.00" ybr="1383.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="607.00" ytl="1579.10" xbr="867.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="301.00" ytl="1317.00" xbr="368.00" ybr="1366.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="120.00" ytl="1489.00" xbr="360.00" ybr="1775.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="296.00" ytl="1099.00" xbr="353.00" ybr="1168.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="542.00" ytl="1296.00" xbr="600.00" ybr="1337.00" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_116.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="336.00" ytl="1152.00" xbr="386.00" ybr="1218.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="267.33" ytl="1361.67" xbr="332.33" ybr="1413.67" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="95.00" ytl="1522.00" xbr="217.00" ybr="1603.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="500.00" ytl="1147.00" xbr="563.00" ybr="1231.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="385.50" ytl="1262.50" xbr="489.00" ybr="1416.47" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="213.42" ytl="1304.25" xbr="263.42" ybr="1345.25" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="364.15" ytl="1264.00" xbr="417.85" ybr="1317.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1624.00" xbr="80.00" ybr="1735.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="322.42" ytl="1240.62" xbr="374.42" ybr="1275.62" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="594.80" ytl="1260.00" xbr="652.00" ybr="1302.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="490.38" ytl="1241.58" xbr="544.47" ybr="1282.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="113.00" ytl="1379.20" xbr="192.00" ybr="1442.20" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_117.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="669.00" ytl="1368.80" xbr="805.00" ybr="1534.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="519.00" ytl="1161.00" xbr="598.00" ybr="1244.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="579.00" ytl="1188.00" xbr="661.00" ybr="1291.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="497.52" ytl="1435.32" xbr="600.32" ybr="1512.40" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="515.00" ytl="1315.00" xbr="580.40" ybr="1357.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="529.40" ytl="1381.58" xbr="601.00" ybr="1438.98" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="414.00" ytl="1186.00" xbr="454.00" ybr="1216.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="308.00" ytl="1272.00" xbr="364.00" ybr="1316.00" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_118.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="401.71" ytl="1244.33" xbr="450.71" ybr="1281.15" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="579.30" ytl="1259.00" xbr="630.71" ybr="1290.90" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="20.88" ytl="1420.00" xbr="192.00" ybr="1645.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="276.85" ytl="1178.15" xbr="317.85" ybr="1213.15" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="671.00" ytl="1586.08" xbr="798.00" ybr="1689.08" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="569.00" ytl="1837.00" xbr="775.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="310.00" ytl="1440.00" xbr="405.90" ybr="1512.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="450.96" ytl="1370.04" xbr="598.96" ybr="1575.04" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="242.30" ytl="1073.00" xbr="282.00" ybr="1123.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="499.00" ytl="1158.00" xbr="558.00" ybr="1227.00" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_119.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="68.00" ytl="992.00" xbr="237.00" ybr="1099.00" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_120.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="231.00" ytl="1297.00" xbr="511.00" ybr="1539.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="530.37" ytl="686.37" xbr="581.40" ybr="724.47" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="654.70" ytl="600.70" xbr="714.30" ybr="679.20" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_121.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="743.70" ytl="557.00" xbr="777.40" ybr="594.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="587.00" ytl="850.00" xbr="680.00" ybr="929.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="0.00" ytl="1016.00" xbr="295.80" ybr="1593.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="598.70" ytl="640.00" xbr="640.50" ybr="674.60" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_122.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="521.00" ytl="929.00" xbr="636.00" ybr="1025.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="538.33" ytl="684.90" xbr="592.80" ybr="721.70" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="783.72" ytl="790.28" xbr="859.72" ybr="873.65" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="172.00" ytl="926.00" xbr="318.00" ybr="1017.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="640.85" ytl="610.58" xbr="706.10" ybr="696.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="701.70" ytl="709.90" xbr="755.95" ybr="751.20" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_123.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="714.00" ytl="660.00" xbr="758.80" ybr="690.20" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="698.98" ytl="564.60" xbr="740.98" ybr="620.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="430.00" ytl="878.00" xbr="540.00" ybr="961.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="389.00" ytl="782.00" xbr="474.00" ybr="838.00" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_124.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="0.00" ytl="1578.00" xbr="96.60" ybr="1675.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="434.00" ytl="1508.00" xbr="567.00" ybr="1609.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="289.00" ytl="1363.00" xbr="386.00" ybr="1446.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="152.00" ytl="1284.00" xbr="247.00" ybr="1352.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1200.00" xbr="59.00" ybr="1259.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="92.00" ytl="1511.00" xbr="392.10" ybr="1920.00" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_125.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="25.00" ytl="1557.00" xbr="351.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1268.00" xbr="54.00" ybr="1330.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1179.00" xbr="70.00" ybr="1249.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="199.00" ytl="1301.00" xbr="294.00" ybr="1372.00" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_126.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="802.90" ytl="1679.70" xbr="1080.00" ybr="1916.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1253.00" xbr="39.00" ybr="1321.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="352.00" ytl="1330.00" xbr="497.00" ybr="1513.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="472.00" ytl="1720.00" xbr="650.00" ybr="1853.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="657.00" ytl="1442.00" xbr="783.00" ybr="1572.00" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_127.png" width="1080" height="1920">
+    <box label="bus" occluded="0" xtl="18.00" ytl="1095.00" xbr="141.00" ybr="1230.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1504.00" xbr="91.00" ybr="1620.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="112.40" ytl="1280.00" xbr="280.09" ybr="1483.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="1.18" ytl="1756.03" xbr="257.33" ybr="1920.00" z_order="1">
+    </box>
+    <box label="truck" occluded="0" xtl="695.40" ytl="1479.00" xbr="880.73" ybr="1681.00" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_128.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="181.00" ytl="1425.00" xbr="377.00" ybr="1666.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="2.00" ytl="1313.00" xbr="119.00" ybr="1504.00" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_129.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="35.00" ytl="1221.00" xbr="124.00" ybr="1284.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="271.00" ytl="1258.00" xbr="360.00" ybr="1323.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="191.00" ytl="1391.00" xbr="315.00" ybr="1553.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="454.00" ytl="1566.00" xbr="590.00" ybr="1674.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1461.00" xbr="72.00" ybr="1558.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1383.00" xbr="52.00" ybr="1456.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1698.00" xbr="82.00" ybr="1879.00" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_130.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="424.31" ytl="1202.35" xbr="468.31" ybr="1235.35" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="325.23" ytl="1254.35" xbr="373.33" ybr="1294.35" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="522.00" ytl="1452.00" xbr="619.00" ybr="1530.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="324.00" ytl="1455.00" xbr="427.00" ybr="1527.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="288.00" ytl="1191.41" xbr="327.00" ybr="1221.71" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="479.00" ytl="1183.00" xbr="522.00" ybr="1215.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="393.30" ytl="1182.00" xbr="432.30" ybr="1211.00" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_131.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="282.00" ytl="1364.20" xbr="453.00" ybr="1577.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="429.00" ytl="1393.20" xbr="610.00" ybr="1651.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="202.00" ytl="1309.10" xbr="260.00" ybr="1353.10" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_132.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="174.00" ytl="1348.00" xbr="242.00" ybr="1397.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="401.00" ytl="1140.00" xbr="452.00" ybr="1213.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="287.00" ytl="1156.00" xbr="339.00" ybr="1225.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="615.00" ytl="1287.00" xbr="674.00" ybr="1330.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="63.00" ytl="1435.00" xbr="154.00" ybr="1494.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="525.82" ytl="1324.18" xbr="587.82" ybr="1373.18" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="230.54" ytl="1205.55" xbr="272.54" ybr="1240.55" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="311.00" ytl="1348.90" xbr="448.30" ybr="1532.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="211.00" ytl="1403.00" xbr="300.00" ybr="1468.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="655.00" ytl="1374.00" xbr="734.00" ybr="1451.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="502.00" ytl="1275.00" xbr="556.00" ybr="1313.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="305.00" ytl="1322.00" xbr="375.00" ybr="1373.00" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_133.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="526.00" ytl="1303.00" xbr="590.00" ybr="1356.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="439.00" ytl="1344.70" xbr="572.00" ybr="1529.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="80.00" ytl="1535.00" xbr="191.00" ybr="1617.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="238.63" ytl="1245.79" xbr="289.63" ybr="1277.30" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="299.40" ytl="1137.20" xbr="348.00" ybr="1197.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="129.00" ytl="1374.00" xbr="205.00" ybr="1428.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="397.00" ytl="1392.60" xbr="464.00" ybr="1448.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="440.05" ytl="1199.20" xbr="482.10" ybr="1230.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="264.00" ytl="1376.00" xbr="342.00" ybr="1431.00" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_134.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="403.71" ytl="1332.86" xbr="463.71" ybr="1378.86" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="62.00" ytl="1423.00" xbr="162.00" ybr="1496.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="325.84" ytl="1260.99" xbr="383.60" ybr="1303.40" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="299.40" ytl="1182.67" xbr="356.40" ybr="1258.48" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="412.90" ytl="1258.00" xbr="462.00" ybr="1299.70" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="366.00" ytl="1710.10" xbr="529.00" ybr="1850.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="391.30" ytl="1172.20" xbr="455.99" ybr="1259.01" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="500.14" ytl="1258.00" xbr="552.14" ybr="1295.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="56.00" ytl="1546.00" xbr="179.00" ybr="1630.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="469.14" ytl="1177.43" xbr="509.14" ybr="1209.43" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="148.00" ytl="1376.00" xbr="225.00" ybr="1428.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="228.15" ytl="1272.73" xbr="276.60" ybr="1310.35" z_order="2">
+    </box>
+    <box label="truck" occluded="0" xtl="496.60" ytl="1347.43" xbr="624.72" ybr="1517.43" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_135.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="747.00" ytl="814.00" xbr="829.00" ybr="886.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="75.00" ytl="969.00" xbr="242.00" ybr="1073.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="246.00" ytl="791.00" xbr="338.00" ybr="853.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="550.30" ytl="630.98" xbr="583.00" ybr="661.58" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="504.00" ytl="658.00" xbr="547.00" ybr="696.00" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_136.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="440.50" ytl="702.10" xbr="624.80" ybr="910.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="439.10" ytl="702.30" xbr="495.00" ybr="739.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="610.00" ytl="1253.00" xbr="820.00" ybr="1507.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="799.00" ytl="679.70" xbr="846.40" ybr="727.00" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_137.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="484.80" ytl="734.40" xbr="541.60" ybr="777.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="320.00" ytl="765.00" xbr="397.00" ybr="816.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="547.00" ytl="729.00" xbr="633.00" ybr="809.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="544.10" ytl="639.00" xbr="581.00" ybr="670.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="711.00" ytl="670.40" xbr="757.00" ybr="705.30" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_138.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="143.70" ytl="840.85" xbr="477.04" ybr="1206.20" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="490.80" ytl="727.70" xbr="548.50" ybr="767.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="631.90" ytl="795.00" xbr="713.20" ybr="867.50" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="300.00" ytl="771.00" xbr="384.00" ybr="830.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="726.90" ytl="653.65" xbr="763.70" ybr="684.35" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_139.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="680.90" ytl="614.00" xbr="714.15" ybr="646.07" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="550.00" ytl="942.00" xbr="657.00" ybr="1045.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="181.50" ytl="910.70" xbr="455.90" ybr="1200.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="500.90" ytl="658.40" xbr="547.20" ybr="688.50" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_140.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="180.79" ytl="1293.48" xbr="272.80" ybr="1362.28" z_order="3">
+    </box>
+    <box label="truck" occluded="0" xtl="0.00" ytl="1073.40" xbr="58.32" ybr="1197.01" z_order="5">
+    </box>
+    <box label="car" occluded="0" xtl="173.45" ytl="1414.19" xbr="293.23" ybr="1514.55" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="59.15" ytl="1231.27" xbr="141.88" ybr="1293.57" z_order="4">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1379.83" xbr="81.53" ybr="1452.35" z_order="2">
+    </box>
+  </image>
+  <image id="140" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_141.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="0.00" ytl="1306.00" xbr="94.00" ybr="1493.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="208.00" ytl="1618.00" xbr="350.00" ybr="1731.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1547.00" xbr="101.00" ybr="1646.00" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_142.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="178.09" ytl="1696.55" xbr="356.09" ybr="1885.45" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="336.00" ytl="1288.00" xbr="435.00" ybr="1353.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="476.55" ytl="1587.73" xbr="616.50" ybr="1710.60" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="35.00" ytl="1252.00" xbr="183.00" ybr="1407.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1712.00" xbr="81.00" ybr="1829.00" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_143.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="184.00" ytl="1611.00" xbr="333.00" ybr="1727.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="469.50" ytl="1475.00" xbr="700.36" ybr="1810.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="5.00" ytl="1278.00" xbr="79.00" ybr="1337.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="841.73" ytl="1841.00" xbr="1056.73" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="463.00" ytl="1830.00" xbr="667.10" ybr="1919.00" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_144.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="412.40" ytl="1292.00" xbr="514.00" ybr="1382.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="3.00" ytl="1563.00" xbr="120.00" ybr="1664.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1.00" ytl="1200.00" xbr="49.00" ybr="1257.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1145.00" xbr="61.00" ybr="1197.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="235.00" ytl="1231.00" xbr="334.00" ybr="1304.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="0.00" ytl="1386.00" xbr="40.40" ybr="1465.00" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_145.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="0.00" ytl="1363.00" xbr="79.00" ybr="1496.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="95.22" ytl="1334.20" xbr="174.00" ybr="1406.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="9.73" ytl="1114.10" xbr="143.73" ybr="1243.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="114.90" ytl="1809.00" xbr="322.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="309.00" ytl="1285.00" xbr="485.06" ybr="1511.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="671.00" ytl="1480.00" xbr="819.00" ybr="1607.00" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_146.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="228.79" ytl="1257.00" xbr="282.79" ybr="1298.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="484.00" ytl="1723.00" xbr="628.00" ybr="1836.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="1.00" ytl="1139.00" xbr="55.00" ybr="1220.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="206.00" ytl="1355.00" xbr="295.00" ybr="1459.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="735.00" ytl="1682.00" xbr="873.00" ybr="1801.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="478.00" ytl="1419.00" xbr="551.00" ybr="1480.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="538.00" ytl="1586.00" xbr="639.00" ybr="1669.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="349.00" ytl="1320.00" xbr="418.00" ybr="1368.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="52.37" ytl="1228.95" xbr="101.37" ybr="1261.95" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="326.00" ytl="1393.00" xbr="464.00" ybr="1589.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="431.00" ytl="1365.00" xbr="499.00" ybr="1421.00" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_147.png" width="1080" height="1920">
+    <box label="truck" occluded="0" xtl="380.02" ytl="1171.15" xbr="448.42" ybr="1260.15" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="319.80" ytl="1285.53" xbr="377.80" ybr="1327.53" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="421.00" ytl="1158.00" xbr="456.00" ybr="1186.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="213.90" ytl="1198.90" xbr="255.00" ybr="1230.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="205.48" ytl="1308.10" xbr="266.48" ybr="1352.10" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="306.00" ytl="1236.00" xbr="355.00" ybr="1273.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="482.00" ytl="1228.00" xbr="533.00" ybr="1264.00" z_order="0">
+    </box>
+    <box label="bus" occluded="0" xtl="288.17" ytl="1168.06" xbr="350.87" ybr="1233.13" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="617.52" ytl="1283.48" xbr="672.42" ybr="1325.48" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="238.70" ytl="1252.90" xbr="287.90" ybr="1290.80" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_148.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="8.00" ytl="1472.00" xbr="110.00" ybr="1541.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="256.54" ytl="1168.25" xbr="295.01" ybr="1199.12" z_order="1">
+    </box>
+    <box label="car" occluded="0" xtl="377.00" ytl="1383.00" xbr="463.80" ybr="1446.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="432.20" ytl="1155.80" xbr="499.00" ybr="1236.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="420.00" ytl="1594.00" xbr="562.00" ybr="1716.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="543.28" ytl="1221.42" xbr="590.48" ybr="1268.62" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="522.00" ytl="1371.00" xbr="600.00" ybr="1438.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="364.00" ytl="1181.15" xbr="425.00" ybr="1246.15" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="227.00" ytl="1855.00" xbr="417.00" ybr="1920.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="296.00" ytl="1196.00" xbr="345.00" ybr="1236.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="409.42" ytl="1237.67" xbr="449.42" ybr="1290.67" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="246.00" ytl="1388.00" xbr="418.00" ybr="1615.00" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_149.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="457.42" ytl="1219.00" xbr="503.42" ybr="1253.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="580.00" ytl="1248.00" xbr="634.00" ybr="1287.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1.00" ytl="1583.00" xbr="131.00" ybr="1684.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="145.00" ytl="1470.00" xbr="253.00" ybr="1550.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="295.00" ytl="1128.70" xbr="338.02" ybr="1183.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="505.10" ytl="1269.00" xbr="561.77" ybr="1319.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="655.00" ytl="1352.00" xbr="729.00" ybr="1406.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="305.28" ytl="1211.43" xbr="346.28" ybr="1245.43" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="371.14" ytl="1208.86" xbr="409.14" ybr="1237.86" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="412.30" ytl="1344.30" xbr="476.00" ybr="1400.00" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="Suwon_CH05_20200720_2030_MON_9m_NH_highway_OW5_sunny_FHD_150.png" width="1080" height="1920">
+    <box label="car" occluded="0" xtl="231.00" ytl="1406.00" xbr="316.00" ybr="1467.00" z_order="0">
+    </box>
+    <box label="truck" occluded="0" xtl="290.75" ytl="1294.00" xbr="359.75" ybr="1388.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="306.17" ytl="1219.42" xbr="349.17" ybr="1254.42" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="248.96" ytl="1229.83" xbr="291.96" ybr="1265.83" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="407.70" ytl="1262.00" xbr="458.00" ybr="1298.60" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1.00" ytl="1476.00" xbr="83.00" ybr="1545.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="346.00" ytl="1190.00" xbr="383.00" ybr="1219.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="167.00" ytl="1458.00" xbr="269.00" ybr="1541.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="376.98" ytl="1168.00" xbr="412.98" ybr="1198.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="315.00" ytl="1476.00" xbr="429.00" ybr="1573.00" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="172.00" ytl="1347.00" xbr="236.00" ybr="1393.00" z_order="0">
+    </box>
+  </image>
+</annotations>
