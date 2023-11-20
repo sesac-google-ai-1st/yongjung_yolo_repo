@@ -8,7 +8,7 @@ ai hub 교통문제 해결을 위한 cctv 교통 영상(고속도로) 데이터 
 5. [gcp] 클라우드 스토리지 버킷에 데이터 압축파일 업로드
 6. [gcp] 클라우드 스토리지 버킷과 주피터 폴더 연동(mount)
 7. [gcp] 주피터 파일로 버킷에 압축풀기
-8. [gcp] 라벨 xml 2 txt
+8. [gcp] 라벨 xml 2 txt -> 진행 중
 9. [gcp] 학습에 활용할 일부 파일(.png & .txt)만 새로운 폴더에 재구성
 10. [gcp] 바운딩 박스 그려보기
 11. [gcp] yolo 학습 예시 코드 돌려보기
@@ -22,4 +22,8 @@ ai hub 교통문제 해결을 위한 cctv 교통 영상(고속도로) 데이터 
   - gpu : V100 2개
   - cpu : 4개
   - ram : 15GB
-  - python
+  - python 3.10.13
+    - torch 1.13.1+cu117
+    - torchvision 0.14.1+cu117
+    - ultralytics 8.0.20
+    - IPython 8.17.2
