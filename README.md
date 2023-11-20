@@ -15,13 +15,11 @@ ai hub 교통문제 해결을 위한 cctv 교통 영상(고속도로) 데이터 
 12. [gcp] 데이터 분석(라벨 클래스 비율 등)으로 학습시킬 이미지 데이터 선별
 13. [gcp] cycle gan 모델 등으로 학습용 이미지 데이터 증식
 
-- 
-  - local
-    - python
-      - 
-  - google cloud platform
-    - gpu : V100 2개
-    - cpu : 4개
-    - ram : 15GB
-      - python
-        - 
+- local
+  - python 3.8.18
+    - numpy 1.24.4
+- google cloud platform
+  - gpu : V100 2개
+  - cpu : 4개
+  - ram : 15GB
+  - python
