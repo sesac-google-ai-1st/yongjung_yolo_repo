@@ -16,8 +16,12 @@ ai hub 교통문제 해결을 위한 cctv 교통 영상(고속도로) 데이터 
 13. [gcp] cycle gan 모델 등으로 학습용 이미지 데이터 증식
 
 - local
-  - python 3.8.18
-    - numpy 1.24.4
+  - conda 23.7.4
+    - python 3.8.18
+      - pandas 2.0.3
+      - numpy 1.24.4
+      - lxml 4.9.3
+      - cv2 4.8.1
 - google cloud platform
   - gpu : V100 2개
   - cpu : 4개
