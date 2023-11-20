@@ -6,19 +6,22 @@ ai hub 교통문제 해결을 위한 cctv 교통 영상(고속도로) 데이터 
 3. [local] 바운딩 박스 그려보기 test
 4. [gcp] 클라우드 인스턴스 준비
 5. [gcp] 클라우드 스토리지 버킷에 데이터 압축파일 업로드
-6. [gcp] 클라우드 스토리지 버킷과 주피터 폴더 연동(마운트)
+6. [gcp] 클라우드 스토리지 버킷과 주피터 폴더 연동(mount)
 7. [gcp] 주피터 파일로 버킷에 압축풀기
-8. [gcp] 학습에 활용할 일부 파일만 새로운 폴더에 재구성
-9. [gcp] yolo 학습 예시 코드 돌려보기
-10. [gcp] 데이터 분석(라벨 클래스 비율 등)으로 학습시킬 이미지 데이터 선별
-11. [gcp] cycle gan 모델 등으로 학습용 이미지 데이터 증식
+8. [gcp] 라벨 xml 2 txt
+9. [gcp] 학습에 활용할 일부 파일(.png & .txt)만 새로운 폴더에 재구성
+10. [gcp] 바운딩 박스 그려보기
+11. [gcp] yolo 학습 예시 코드 돌려보기
+12. [gcp] 데이터 분석(라벨 클래스 비율 등)으로 학습시킬 이미지 데이터 선별
+13. [gcp] cycle gan 모델 등으로 학습용 이미지 데이터 증식
 
-- local
-  - python
-    - 
-- google cloud platform
-  - gpu : V100 2개
-  - cpu : 4개
-  - ram : 15GB
-  - python
-    - 
+- 
+  - local
+    - python
+      - 
+  - google cloud platform
+    - gpu : V100 2개
+    - cpu : 4개
+    - ram : 15GB
+      - python
+        - 
