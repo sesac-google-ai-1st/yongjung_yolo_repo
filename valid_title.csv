@@ -1,4 +1,4 @@
-region,channel,ymd,time,date,m,RushHour,road,twow,weather,quality
+region,channel,ymd,time,date,camera_height,RushHour,road,road_lane,weather,resolution
 Suwon,CH01,20200720,1830,MON,9m,RH,highway,TW5,sunny,FHD
 Suwon,CH01,20200721,1700,TUE,9m,RH,highway,TW5,sunny,FHD
 Suwon,CH01,20200722,1430,WED,9m,NH,highway,TW5,rainy,FHD
