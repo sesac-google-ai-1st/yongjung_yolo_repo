@@ -22,12 +22,12 @@ ai hub 교통문제 해결을 위한 cctv 교통 영상(고속도로) 데이터 
       - lxml 4.9.3
       - cv2 4.8.1
 - google cloud platform
-  - gpu : V100 2개
+  - gpu : Tesla V100-SXM2-16GB 2개
   - cpu : 4개
   - ram : 15GB
   - python 3.10.13
-    - numpy
-    - lxml
+    - numpy 1.23.5
+    - lxml 4.9.3
     - distutils 3.10.13
     - torch 1.13.1+cu117
     - torchvision 0.14.1+cu117
